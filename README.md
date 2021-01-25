@@ -1,12 +1,12 @@
 # School_District_Analysis
 
 
- # #  Overview of the school district analysis
+  # #  Overview of the school district analysis
  
  
      Maria, chief data for the City School District is tasked with preparing all standarized test data for analysis, reporting and  presentation in order to provide insight about performance paths and patterns. In this analysis , she will analyze data on student funding and student standarized test school in order for school board to take decision regarding budget allotments.
      
- # # Results
+  # # Results
  
  The analysis showed no evidence of academic dishonesty, specifically , regarding reading and math grades for Thomas High School ninth graders as the state testing confirmed that the data was not really affected after replacing the ninth grade scores. 
  
@@ -18,14 +18,14 @@
  4-teh % passing Reading dropped by 0.1 points
  5-the % overall passing dropped by 1.1 points
  
- the graphic below shows the district summary   ![here](/Resources/district summary.png)
- the second one shows the schools summary ![here](/Resources/district summary affected.png)
+ the graphic below shows the district summary![here](/Resources/district summary.png)
+ the second one shows the schools summary![here](/Resources/district summary affected.png)
  
  
  the analysis showed no change after replacing the 9th grade by NaN regarding the following elemets :Math and reading scores by grade
  Scores by school spending, Scores by school size, the only element that was affected was scores by school type where the charter type droped  by 3.00points
  
  
-  # # Summary
+   # # Summary
   
   the analysis showed no evidence of altered data due to dishonesty, I couldnt find accurate elements to support this assumption since data was very slightly modified by replacing the 9th graders scores by NaN
