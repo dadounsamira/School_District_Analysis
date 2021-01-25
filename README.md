@@ -12,20 +12,20 @@
  
  the district summary was  slightly affected after 9th grade math and reading were replaced for Thomas High School with Nan
  
- 1- The average Math scores droped by 0.1 point.
- 2-the average Reading score did not change.
- 3-the % passing Math dropped by 0.2 points
- 4-teh % passing Reading dropped by 0.1 points
- 5-the % overall passing dropped by 1.1 points
+   1- The average Math scores droped by 0.1 point.
+   2-the average Reading score did not change.
+   3-the % passing Math dropped by 0.2 points
+   4-teh % passing Reading dropped by 0.1 points
+   5-the % overall passing dropped by 1.1 points
  
- the graphic below shows the district summary![here](/Resources/district summary.png)
- the second one shows the schools summary![here](/Resources/district summary affected.png)
+ The graphic below shows the district summary![here](/Resources/district summary.png)
+ 
+ The second one shows the schools summary![here](/Resources/district summary affected.png)
  
  
- the analysis showed no change after replacing the 9th grade by NaN regarding the following elemets :Math and reading scores by grade
- Scores by school spending, Scores by school size, the only element that was affected was scores by school type where the charter type droped  by 3.00points
+ The analysis showed no change after replacing the 9th grade by NaN regarding the following elemets : Math and reading scores by grade,Scores by school spending, Scores by  school size, the only element that was affected was scores by school type where the charter type droped  by 3.00points
  
  
    # # Summary
   
-  the analysis showed no evidence of altered data due to dishonesty, I couldnt find accurate elements to support this assumption since data was very slightly modified by replacing the 9th graders scores by NaN
+  The analysis showed no evidence of altered data due to dishonesty, I couldnt find accurate elements to support this assumption since data was very slightly modified by   replacing the 9th graders scores by NaN
