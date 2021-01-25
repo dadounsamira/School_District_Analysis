@@ -31,7 +31,4 @@
    
   
   The analysis showed no evidence of altered data due to dishonesty, I couldnt find accurate elements to support this assumption since data was very slightly modified by   replacing the 9th graders scores by NaN
-<<<<<<< HEAD
- 
-=======
->>>>>>> 0ce3bbb34c3214abecb0e66068e400e93168c81a
+
