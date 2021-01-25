@@ -19,10 +19,10 @@
    5-the % overall passing dropped by 1.1 points
  
  The graphic below shows the district summary
- ![here](Resources/district summary.png)
+ ![here](/Resources/district summary.png)
  
  The second one shows the schools summary
- ![here](Resources/district summary affected.png)
+ ![here](/Resources/district summary affected.png)
  
  
  The analysis showed no change after replacing the 9th grade by NaN regarding the following elemets : Math and reading scores by grade,Scores by school spending, Scores by  school size, the only element that was affected was scores by school type where the charter type droped  by 3.00points
